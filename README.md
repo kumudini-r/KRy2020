@@ -1,17 +1,18 @@
 # Kumudini Rajashekhar 
 [www.linkedin.com/in/kumudini](https://www.linkedin.com/in/kumudini)
+
 I am a determined, transparent and self-enabling Project Manager with a strong knowledge of ASIC CMOS and a substantial Electrical Engineering background. My work experience includes facilitating, tracking & coordinating projects and their activities, and inventory management in the field of consumer electronics, wire & cable, biotech and semiconductor industries.
 
 ## Experience       
 ### Systems Project Manager  Angle Systems San Jose Aug-2017 Currently
-- Driving day-to-day activities to meet project objectives, tracking progress and reporting the project status.
-- Created and managed the project inventory/ portfolio of Bill of Materials(BOMs). 
+- Driving day-to-day activities to meet * project objectives * , tracking progress and reporting the ** project status ** .
+- Created and managed the * project inventory/ portfolio of Bill of Materials * ( ** BOMs ** ). 
 - Managed product technology transitions, PNL, SKU with BOM creation and their life cycle changes, based on input from the Development and Application team. 
-- Tracking, facilitating activities between different teams to orchestrate development, testing and validation for successful delivery of products to the customers.
+- * Tracking, facilitating * activities between different teams to * orchestrate * development, testing and validation for successful delivery of products to the customers.
 - Supported in managing the execution of Angle Systems key business models, systems and capabilities.
-- Led the coordination/communication between cross-functional teams, identified issues and mitigated the associated bottlenecks.
-- Collaborated with sales team and led monthly meetings with our sales representatives readiness/update meetings
-- Drove the execution of customer demands and maintained accurate records of Quotations, PO’s, NDA. Extensively worked with vendors to provide custom products.
+- Led the * coordination/communication * between ** cross-functional teams ** , identified issues and mitigated the associated bottlenecks.
+- * Collaborated * with sales team and led monthly meetings with our sales representatives readiness/update meetings
+- Drove the execution of * customer demands * and maintained accurate records of ** Quotations, PO’s, NDA ** . Extensively worked with vendors to provide custom products.
 - Managed marketing and promotion of our business in shows and conferences. And thereafter following leads to increased sales.
 - Worked extensively on shipments, packaging slips, invoices for the system shipping(STBS).
 
@@ -46,6 +47,26 @@ Assisted in EVT, DVT of an enhanced feature that reduces the delay of the hardwa
 ### Project Intern  Main Control Facility - ISRO Hassan, India Sept 98 - 99      
 - Supported the ISRO scientists to find the error in the angle of the sensor in an on-ground communication satellite. Also to find the solution in the correcting of the angle.
 - Assisted the facility(MCF) that monitors and controls all the Geosynchronous satellites of ISRO, activities include Tracking, Telemetry & Commanding (TT&C)
+
+## Education:
+
+### San Jose State University / Master of Science                                                                
+Semiconductors & Chip Design VLSI (GPA 3.84/4), May 2006
+
+### Malnad College of Engineering(MCE) / Bachelor of Engineering                         
+Electrical Engineering(Distinction), University of Mysore - Sept 1999    
+
+## Volunteer Leadership works:
+
+### PTA Reflection Chair / National PTA, Every child, One voice
+Millikin Basics+, 2016 - Jun 2020
+
+### PTA Reflection Co-Chair
+
+### Indian Carnatic Music & Culture promoter
+Dasa Smriti, 2015 - Currently
+
+
 
 
 
