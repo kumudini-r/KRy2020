@@ -50,20 +50,20 @@ Assisted in EVT, DVT of an enhanced feature that reduces the delay of the hardwa
 
 ## Education:
 
-### San Jose State University / Master of Science                                                                
+#### San Jose State University / Master of Science                                                                
 Semiconductors & Chip Design VLSI (GPA 3.84/4), May 2006
 
-### Malnad College of Engineering(MCE) / Bachelor of Engineering                         
+#### Malnad College of Engineering(MCE) / Bachelor of Engineering                         
 Electrical Engineering(Distinction), University of Mysore - Sept 1999    
 
 ## Volunteer Leadership works:
 
-### PTA Reflection Chair / National PTA, Every child, One voice
+##### PTA Reflection Chair / National PTA, Every child, One voice
 Millikin Basics+, 2016 - Jun 2020
 
-### PTA Reflection Co-Chair
+##### PTA Reflection Co-Chair
 
-### Indian Carnatic Music & Culture promoter
+##### Indian Carnatic Music & Culture promoter
 Dasa Smriti, 2015 - Currently
 
 
