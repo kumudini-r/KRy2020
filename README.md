@@ -5,7 +5,7 @@ I am a determined, transparent and self-enabling Project Manager with a strong k
 
 ## Experience       
 ### Systems Project Manager  Angle Systems San Jose Aug-2017 Currently
-- Driving day-to-day activities to meet * project objectives * , tracking progress and reporting the ** project status ** .
+- Driving day-to-day activities to meet * project objectives *, tracking progress and reporting the ** project status ** .
 - Created and managed the * project inventory/ portfolio of Bill of Materials * ( ** BOMs ** ). 
 - Managed product technology transitions, PNL, SKU with BOM creation and their life cycle changes, based on input from the Development and Application team. 
 - * Tracking, facilitating * activities between different teams to * orchestrate * development, testing and validation for successful delivery of products to the customers.
